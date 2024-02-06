@@ -46,26 +46,26 @@ const LandingPageV1Desktop: NextPage = () => {
           </div>
         </div>
       </section>
-      <section className="self-stretch flex flex-row items-start justify-end py-0 px-0 box-border min-h-[258px] max-w-full text-center text-21xl text-mediumslateblue-200 font-paragraph-p3-regular">
+      <section className="self-stretch flex flex-row items-start justify-end py-0 px-0 box-border min-h-[300px] max-w-full text-center text-21xl text-mediumslateblue-200 font-paragraph-p3-regular">
         <div className="w-[1981px] flex flex-row items-start justify-start py-0 px-0 box-border shrink-0 max-w-[103%]">
           <div className="w-[2013px] flex flex-col items-start justify-start shrink-0 max-w-[102%]">
-            <h1 className="m-0 w-[774px] relative text-inherit tracking-[-0.02em] font-bold font-inherit inline-block max-w-full pr-5 z-[3] mq450:text-5xl mq900:text-13xl">
+            <h1 className="m-0 w-[774px] right-[130px] relative text-inherit tracking-[-0.02em] font-bold font-inherit inline-block max-w-full pr-5 z-[3] mq450:text-5xl mq900:text-13xl">
               Gestion de payements
             </h1>
             <div className="self-stretch flex flex-row items-start justify-end max-w-full text-left text-lg text-midnightblue">
               <div className="w-[1862px] flex flex-row items-start justify-between py-0 pr-0 pl-5 box-border gap-[20px] max-w-full mq1300:flex-wrap mq1300:justify-center">
                 <div className="w-[417px] flex flex-col items-start justify-start pt-[7px] px-0 pb-0 box-border max-w-full">
-                  <div className="self-stretch h-[60px] relative tracking-[-0.02em] leading-[30px] inline-block shrink-0">
+                  <div className="self-stretch right-[130px] h-[60px] relative tracking-[-0.02em] leading-[30px] inline-block shrink-0">
                     Découvrez rapidement les appartements ayant payé et ceux en
                     attente dans notre gestion syndic facile et claire
                   </div>
                 </div>
                 <div className="w-[754px] flex flex-col items-center justify-start gap-[1px] max-w-full text-center text-21xl text-mediumslateblue-200">
-                  <h1 className="m-0 self-stretch h-14 relative text-inherit tracking-[-0.02em] font-bold font-inherit inline-block shrink-0 z-[3] mq450:text-5xl mq900:text-13xl">
+                  <h1 className="m-0 right-[170px] self-stretch h-14 relative text-inherit tracking-[-0.02em] font-bold font-inherit inline-block shrink-0 z-[3] mq450:text-5xl mq900:text-13xl">
                     Créer annoncement
                   </h1>
                   <div className="w-[376px] flex flex-row items-start justify-start py-0 pr-0 pl-[7px] box-border max-w-full text-left text-lg text-midnightblue">
-                    <div className="h-[70px] flex-1 relative tracking-[-0.02em] leading-[30px] inline-block max-w-full">
+                    <div className="h-[70px] right-[178px] flex-1 relative tracking-[-0.02em] leading-[30px] inline-block max-w-full">
                       creer annoncement par syndicat au cas de reparations ou
                       d'urgence
                     </div>
@@ -79,23 +79,23 @@ const LandingPageV1Desktop: NextPage = () => {
       <section className="self-stretch flex flex-row items-start justify-end py-0 px-0 box-border min-h-[487px] max-w-full text-center text-21xl text-mediumslateblue-200 font-paragraph-p3-regular">
         <div className="w-[2052px] flex flex-row items-start justify-start py-0 px-0 box-border shrink-0 max-w-[107%]">
           <div className="w-[2109px] flex flex-col items-start justify-start gap-[7px] shrink-0 max-w-[103%]">
-            <h1 className="m-0 w-[774px] relative text-inherit tracking-[-0.02em] font-bold font-inherit inline-block max-w-full pr-5 z-[3] mq450:text-5xl mq900:text-13xl">
+            <h1 className="m-0 w-[774px] right-[130px] relative text-inherit tracking-[-0.02em] font-bold font-inherit inline-block max-w-full pr-5 z-[3] mq450:text-5xl mq900:text-13xl">
               Payement Syndic
             </h1>
             <div className="self-stretch flex flex-row items-start justify-end max-w-full text-left text-lg text-midnightblue">
               <div className="w-[1916px] flex flex-row items-start justify-between py-0 pr-0 pl-5 box-border gap-[20px] max-w-full mq1300:flex-wrap mq1300:justify-center">
                 <div className="w-[489px] flex flex-col items-start justify-start gap-[150px] max-w-full mq900:gap-[75px]">
-                  <div className="w-[431px] h-[59px] relative tracking-[-0.02em] leading-[30px] inline-block shrink-0 max-w-full pr-5">
+                  <div className="w-[431px] right-[125px] h-[59px] relative tracking-[-0.02em] leading-[30px] inline-block shrink-0 max-w-full pr-5">
                     Payez votre syndic simplement : en ligne avec votre carte
                     bancaire ou de manière traditionnelle
                   </div>
                   <div className="self-stretch flex flex-row items-start justify-start py-0 pr-0 pl-[3px] box-border max-w-full text-center text-21xl text-mediumslateblue-200">
                     <div className="flex-1 flex flex-col items-end justify-start gap-[7px] max-w-full">
-                      <h1 className="m-0 self-stretch relative text-inherit tracking-[-0.02em] font-bold font-inherit mq450:text-5xl mq900:text-13xl">
+                      <h1 className="m-0 right-[130px] self-stretch relative text-inherit tracking-[-0.02em] font-bold font-inherit mq450:text-5xl mq900:text-13xl">
                         Messages automatique
                       </h1>
                       <div className="w-[468px] flex flex-row items-start justify-start py-0 px-[7px] box-border max-w-full text-left text-lg text-midnightblue">
-                        <div className="h-[120px] flex-1 relative tracking-[-0.02em] leading-[30px] inline-block max-w-full">
+                        <div className="h-[120px] right-[138px] flex-1 relative tracking-[-0.02em] leading-[30px] inline-block max-w-full">
                           Soyez à jour ! Votre paiement syndic est en attente.
                           Régularisez rapidement pour une gestion sans souci.
                           Merci
@@ -106,13 +106,13 @@ const LandingPageV1Desktop: NextPage = () => {
                 </div>
                 <div className="w-[754px] flex flex-col items-start justify-start pt-7 px-0 pb-0 box-border max-w-full text-center text-21xl text-mediumslateblue-200">
                   <div className="self-stretch flex flex-col items-center justify-start gap-[24px] max-w-full">
-                    <h1 className="m-0 self-stretch relative text-inherit tracking-[-0.02em] font-bold font-inherit z-[3] mq450:text-5xl mq900:text-13xl">
+                    <h1 className="m-0 right-[182px] self-stretch relative text-inherit tracking-[-0.02em] font-bold font-inherit z-[3] mq450:text-5xl mq900:text-13xl">
                       Assistance en ligne
                     </h1>
                     <div className="w-[524px] flex flex-row items-start justify-end max-w-full text-left text-lg text-midnightblue">
-                      <div className="h-[120px] w-[454px] relative tracking-[-0.02em] leading-[30px] inline-block shrink-0 max-w-full">
+                      <div className="h-[120px] right-[180px] w-[454px] relative tracking-[-0.02em] leading-[30px] inline-block shrink-0 max-w-full">
                         Assistance en ligne disponible ! Besoin d'aide ou
-                        d'infos ? Contactez-nous instantanément pour une
+                        d'infos? Contactez-nous instantanément pour une
                         assistance rapide et efficace.
                       </div>
                     </div>

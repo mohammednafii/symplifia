@@ -33,6 +33,7 @@ const Utilitys: NextPage = () => {
         <div className="absolute top-[0px] left-[0px] rounded-[50%] bg-mediumslateblue-400 w-full h-full" />
         <img
           className="absolute w-[calc(100%_-_26.6px)] top-[12.7px] right-[14.4px] left-[12.2px] max-w-full overflow-hidden h-14 object-cover z-[1]"
+          loading="eager"
           alt=""
           src="/verified-2438078-1@2x.png"
         />
